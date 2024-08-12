@@ -1,12 +1,10 @@
 <div align="center">
-<h1>Hello world, I'm Maria Júlia</h1>
+<h1>Hello world, I'm Maju</h1>
 
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/4bc6193413955c65aa35c2951853d2b3.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
   
-Majoring in computer engineering
-<br>I'm currently working with embedded systems, Python and machine learning
-<br>I’m currently learning JavaScript e MongoDB
-<br>Ask me about travel and languages
+<br>Data Engineer
+<br>I’m currently working with Spark, Azure, Python and SQL.
 </div>
 
 ##
